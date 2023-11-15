@@ -1,0 +1,11 @@
+{
+    "name": "instalando/composer",
+    "description": "aprendendo  fazer a instalção do composer em projetos de PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "sistema\\": "sistema/"
+        }
+    },
+    "minimum-stability": "dev"
+}
