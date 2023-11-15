@@ -1,0 +1,9 @@
+{
+    "name": "ale/htdocs",
+    "autoload": {
+        "psr-4": {
+            "sistema\\": "src/sistema/"
+        }
+    },
+    "require": {}
+}
